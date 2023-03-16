@@ -29,7 +29,7 @@ To run the application, navigate to the directory and run the following command:
 
 ``python app.py``
 
-This will start the Flask server and the application can be accessed at http://localhost:5001/.
+This will start the Flask server and the application can be accessed.
 
 ***Files***:
 The following files are included in this repository:
